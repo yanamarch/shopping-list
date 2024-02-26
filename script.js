@@ -1,4 +1,4 @@
-const listItemsContainer = document.querySelector('#item');
+const listItemsContainer = document.querySelector('#items');
 const input = document.querySelector('#input');
 
 input.addEventListener('keydown', function(event) {
